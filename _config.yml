@@ -116,7 +116,7 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://mtollefsen.github.io"
-    - label: "Public Tableau
+    - label: "Public Tableau"
       icon: "fas fa-chart-area"
       url: "https://public.tableau.com/app/profile/max.tollefsen"
     - label: "Twitter"
