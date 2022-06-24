@@ -123,7 +123,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mtollefsen"
     - label: "Public Tableau"
-      icon: "fas fa-chart-area"
+      icon: "far fa-chart-bar"
       url: "https://public.tableau.com/app/profile/max.tollefsen"
 
 # Site Footer
