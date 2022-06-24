@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Max Tollefsen"
 description              : "Personal website."
 url                      : "https://mtollefsen.github.io"
-baseurl                  : "/home"
+baseurl                  : # "/home"
 repository               : "mtollefsen/mtollefsen.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # "/assets/images/Skeletor Head.jpg"
