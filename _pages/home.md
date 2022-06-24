@@ -1,4 +1,10 @@
-
+---
+title:  "Homepage"
+layout: single
+permalink: /
+author_profile: true
+comments: false
+---
 
 ### 👔 [LinkedIn](https://www.linkedin.com/in/max-tollefsen/){:target="_blank" rel="noopener"}
 ### 💾 [Github](https://github.com/mtollefsen){:target="_blank" rel="noopener"}
