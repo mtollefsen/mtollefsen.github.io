@@ -6,8 +6,6 @@ header:
 permalink: /unofficial-masters-of-doom-companion/
 toc: true
 toc_label: "Content"
-toc_sticky: false
-toc_icon: "skull-cow"
 author_profile: false
 comments: false
 ---
