@@ -29,7 +29,7 @@ page 6 - James Dallas Egbert III
   - [Wikiepedia entry](https://en.wikipedia.org/wiki/James_Dallas_Egbert_III){:target="_blank" rel="noopener"}
 
 page 6 - Colossal Cave Adventure (text based computer game)
-  - [Wikipedia entry](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure)
-  - [Browser version of the game](http://rickadams.org/adventure/advent/)
+  - [Wikipedia entry](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure){:target="_blank" rel="noopener"}
+  - [Browser version of the game](http://rickadams.org/adventure/advent/){:target="_blank" rel="noopener"}
 
 ## Chapter 2 - The Rocket Scientist
