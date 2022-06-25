@@ -18,7 +18,7 @@ This is an unofficial online companion to the book *[Masters of Doom: How Two Gu
 ## Chapter 1 - The Rock Star
 page 3 - Asteroids (arcade game)
   - [Wikipedia entry](https://en.wikipedia.org/wiki/Asteroids_(video_game))
-  - [Knock-Off browser version of the game you can play for free](https://freeasteroids.org/)
+  - [Knock-off browser version of the game you can play for free](https://freeasteroids.org/)
 
 page 6 - James Dallas Egbert III
   - [Book referenced by the author](https://www.amazon.com/Dungeon-Master-Disappearance-Dallas-Egbert/dp/0395355362)
