@@ -9,7 +9,6 @@ comments: false
 # Data Portfolio by Max Tollefsen
 
 ## Overwatch League
------
 
 ### [Overwatch League Data Cleanup](https://github.com/maxtoll/Overwatch-League-Data/tree/main/Data%20Cleanup){:target="_blank" rel="noopener"}
 SQL code I used to clean data from the Overwatch League and transform it into a well-organized database. This database forms the foundation for the other Overwatch League projects.
@@ -23,8 +22,3 @@ Tableau dashboard of team rankings for the 2018 season of the Overwatch League. 
 
 ### [Liquipedia API Web Scraping](https://github.com/mtollefsen/overwatch-league-data-projects/tree/main/Liquipedia%20API%20Web%20Scrape){:target="_blank" rel="noopener"}
 Python code that scrapes information on professional Overwatch players from Liquipedia.net and uploads it to my Overwatch League database.
-
-## About Me
-I'm a Data Scientist based in Houston, Texas. Currently I'm focusing on college classes that will prepare me for when I apply to master's programs in Computer Science with a concentration in Machine Learning at the end of summer.
-
-For any questions, you can reach me at my email [max.tollefsen@gmail.com](mailto:max.tollefsen@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/max-tollefsen/){:target="_blank" rel="noopener"}.
