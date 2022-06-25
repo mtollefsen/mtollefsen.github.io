@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Max Tollefsen"
   avatar           : "/assets/images/GitHub Website Author.jpeg"
-  bio              : "Believe it or not I'm the one on the left."
+  bio              : # "Believe it or not I'm the one on the left."
   location         : "Houston, Texas"
   email            : # "Max.Tollefsen@gmail.com"
   links:
