@@ -1,5 +1,5 @@
 ---
-title:  "Data Portfolio"
+title:  "Portfolio"
 layout: single
 header:
   overlay_image: /assets/images/BLANK.jpg
