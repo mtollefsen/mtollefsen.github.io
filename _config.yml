@@ -111,7 +111,7 @@ author:
   email            : # "Max.Tollefsen@gmail.com"
   links:
     - label: "Email"
-      icon: "fal fa-envelope"
+      icon: "fas fa-envelope"
       url: "mailto:max.tollefsen@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
