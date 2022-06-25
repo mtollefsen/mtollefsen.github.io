@@ -2,10 +2,8 @@
 title:  "About Me"
 layout: single
 permalink: /about-me/
-author_profile: true
+author_profile: false
 comments: false
 ---
 
-I'm a Data Scientist based in Houston, Texas. Currently I'm focusing on college classes that will prepare me for when I apply to master's programs in Computer Science with a concentration in Machine Learning at the end of summer.
-
-For any questions, you can reach me at my email [max.tollefsen@gmail.com](mailto:max.tollefsen@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/max-tollefsen/){:target="_blank" rel="noopener"}.
+My name is Max Tollefsen and I'm a Data Scientist based in Houston, Texas. I got my bachelors in economics from the University of Houston with a minor in psychology. I've been interested in data analysis ever since I took Intro to Economic Analysis at U of H and am happy that I've been able to use and sharpen that skillset in every job I've had. Long term I'm hoping to build a deep competency in the data science space by studying more machine learning, analytics techniques, and tackling increasingly difficult and interesting problems.
