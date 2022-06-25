@@ -1,6 +1,7 @@
 ---
 title:  "Unofficial Masters of Doom Companion"
 layout: single
+classes: wide
 permalink: /unofficial-masters-of-doom-companion/
 author_profile: true
 comments: false
