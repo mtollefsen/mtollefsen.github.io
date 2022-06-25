@@ -1,6 +1,6 @@
 ---
 title:  "Unofficial Masters of Doom Companion"
-layout: default
+layout: splash
 header:
   overlay_image: /assets/images/doom-banner.png
 permalink: /unofficial-masters-of-doom-companion/
