@@ -1,12 +1,13 @@
 ---
-title:  "Hello and Welcome"
+title:  ""
 layout: single
 permalink: /
 header:
-  image: /assets/images/houston banner.jpg
+  overlay_image: /assets/images/houston banner.jpg
 author_profile: true
 comments: false
 ---
+# Hello and Welcome
 
 My name is Max and welcome to my website. I'm a Data Scientist by trade and am currently based in Houston, Texas (although I'm always open to an adventure in a new city!). Currently I'm focusing on college classes that will prepare me for when I apply to a master's program in Computer Science with a concentration in Machine Learning at the end of summer. After getting my masters in computer science I plan to get a second, complimentary, masters in applied statistics, analytics, or a related field and continue to develop my skills in machine learning and analytics. 
 
