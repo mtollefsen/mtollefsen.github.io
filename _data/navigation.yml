@@ -4,11 +4,11 @@
 main:
   - title: "Data Portfolio"
     url: /data-portfolio
+  - title: "Blog"
+    url: /Blog/
   - title: "Unofficial Masters Of Doom Companion"
     url: /unofficial-masters-of-doom-companion/
   - title: "About Me"
     url: /about-me/
-  - title: "Blog"
-    url: /Blog/
   # - title: "Sitemap"
   #   url: /sitemap/
