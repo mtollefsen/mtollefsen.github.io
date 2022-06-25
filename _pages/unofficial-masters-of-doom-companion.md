@@ -3,7 +3,7 @@ title:  "Unofficial Masters of Doom Companion"
 layout: single
 classes: wide
 header:
-  overlay_image: /assets/images/doom-banner.png
+  image: /assets/images/doom-banner.png
 permalink: /unofficial-masters-of-doom-companion/
 author_profile: true
 comments: false
