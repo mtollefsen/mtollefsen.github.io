@@ -1,7 +1,9 @@
 ---
 title:  "Homepage"
-layout: splash
+layout: single
 permalink: /
+header:
+  image: /assets/images/houston skyline.jpg
 author_profile: true
 comments: false
 ---
