@@ -3,7 +3,7 @@ title:  "Unofficial Masters of Doom Companion"
 layout: single
 classes: wide
 header:
-  image: /assets/images/doom-banner.png
+  overlay_image: /assets/images/doom-banner.png
 permalink: /unofficial-masters-of-doom-companion/
 author_profile: true
 comments: false
@@ -11,7 +11,7 @@ comments: false
 
 Last Updated: June 24, 2022
 
-This is an unofficial online companion to the book *[Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture](https://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155)* (non-affiliate link) written by David Kushner. The book follows two of the founders of id Software, a company responsible for the creation of the cutting edge games Doom and Quake. I loved reading this book and kept thinking how much I wanted a webpage I could consult that would have links to some of the images, games, and videos that the book references. I'm hoping this webpage will fill that niche. **Be aware that because some of the book's contents is explicit some of the contents of this companion is explicit as well.** As an additional disclaimer, I do not own or host any of the media that I link here on this page.
+This is an unofficial online companion to the book *[Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture](https://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155)* (non-affiliate link) written by David Kushner. Below are links to different images, videos, and games in the order that they're referenced in the book, organized by chapter and page. I loved reading the book and kept thinking how great it would be to have a single resource with links to all the crazy pieces of history that the book mentions (e.g. Bill Gates in a trench coat with a shotgun). Be aware that because some of the book's contents is explicit **some of the contents of this companion is explicit as well.** As an additional disclaimer, I do not own or host any of the media that I link here on this page.
 
 #### Introduction - The Two Johns
 - page ix [Quake III Arena](https://store.steampowered.com/app/2200/Quake_III_Arena/)
