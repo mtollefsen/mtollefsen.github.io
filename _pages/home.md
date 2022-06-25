@@ -3,7 +3,7 @@ title:  "Hello and Welcome"
 layout: single
 permalink: /
 header:
-  overlay_color: "#333"
+  overlay_image: /assets/images/houston banner.jpg
 author_profile: true
 comments: false
 ---
