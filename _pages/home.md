@@ -1,6 +1,6 @@
 ---
 title:  " "
-layout: single
+layout: splash
 permalink: /
 header:
   overlay_image: /assets/images/houston banner.jpg
