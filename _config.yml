@@ -116,7 +116,7 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://mtollefsen.github.io"
-    - label: " LinkedIn"
+    - label: "  LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/max-tollefsen/"
     - label: "GitHub"
