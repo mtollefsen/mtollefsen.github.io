@@ -1,6 +1,8 @@
 ---
 title:  "Data Portfolio"
 layout: single
+header:
+  overlay_image:
 permalink: /data-portfolio/
 author_profile: true
 comments: false
