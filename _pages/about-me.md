@@ -7,7 +7,7 @@ comments: false
 ---
 ![GitHub Website Author](/assets/images/GitHub Website Author.jpeg){: .align-left}
 
-[![GitHub Website Author](/assets/images/GitHub Website Author.jpeg){: .align-center style="width: 10%;"}](/assets/images/pixel_tracker_logo_80px.png "Title shown in gallery view")
+[![GitHub Website Author](/assets/images/GitHub Website Author.jpeg){: .align-center}]
 Me and my sometimes loyal companion Loki.
 {: style="text-align: center; font-size:0.7em;"}
 
