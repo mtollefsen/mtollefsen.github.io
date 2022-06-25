@@ -11,7 +11,7 @@ comments: false
 
 Last Updated: June 25, 2022
 
-This is an unofficial online companion to the book *[Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture](https://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155)* (non-affiliate link) written by David Kushner. Below are links to different images, videos, and games in the order that they appear in the book. I loved reading this book and kept thinking how great it would be to have a single resource with links to all the crazy pieces of history that gets mentioned (e.g. Bill Gates in a trench coat with a shotgun). I do not own or host any of the media linked here nor do I have any affiliate links on this page. Unless stated otherwise "the author" always refers to the book's author David Kushner.
+This is an unofficial online companion to the book *[Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture](https://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155)* (non-affiliate link) written by David Kushner. Below are links to different images, videos, and games in the order that they appear in the book. I loved reading this book and kept thinking how great it would be to have a single resource with links to all the crazy pieces of history that gets mentioned (e.g. Bill Gates in a trench coat with a shotgun). I do not own or host any of the media linked here nor do I have any affiliate links on this page. Unless stated otherwise "the author" refers to the book's author David Kushner.
 
 **BE AWARE THAT SOME OF THE CONTENTS OF MASTERS OF DOOM IS EXPLICIT AND THEREFORE SOME OF THE CONTENTS OF THIS COMPANION IS EXPLICIT AS WELL.**
 
