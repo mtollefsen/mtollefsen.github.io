@@ -6,6 +6,7 @@ header:
 permalink: /unofficial-masters-of-doom-companion/
 toc: true
 toc_label: "Content"
+toc_sticky: false
 author_profile: false
 comments: false
 ---
