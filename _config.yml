@@ -106,12 +106,12 @@ analytics:
 author:
   name             : "Max Tollefsen"
   avatar           : "/assets/images/GitHub Website Author.jpeg"
-  bio              : # "Believe it or not I'm the one on the left."
+  bio              : " "
   location         : "Houston, Texas"
   email            : # "Max.Tollefsen@gmail.com"
   links:
     - label: "Email"
-      icon: "fas fa-envelope"
+      icon: "far fa-envelope"
       url: "mailto:max.tollefsen@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
