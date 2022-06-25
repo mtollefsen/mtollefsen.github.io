@@ -5,7 +5,9 @@ classes: wide
 header:
   overlay_image: /assets/images/doom-banner.png
 permalink: /unofficial-masters-of-doom-companion/
-author_profile: true
+toc: true
+toc_sticky: true
+author_profile: false
 comments: false
 ---
 
