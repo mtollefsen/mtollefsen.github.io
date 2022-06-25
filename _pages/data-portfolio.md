@@ -8,7 +8,7 @@ comments: false
 
 ## Overwatch League
 
-### [Overwatch League Data Cleanup](https://github.com/maxtoll/Overwatch-League-Data/tree/main/Data%20Cleanup){:target="_blank" rel="noopener"}
+### [Overwatch League Data Cleanup](https://github.com/maxtoll/Overwatch-League-Data/tree/main/Data%20Cleanup)
 SQL code I used to clean data from the Overwatch League and transform it into a well-organized database. This database forms the foundation for the other Overwatch League projects.
   
 ### [Overwatch League 2018 Dashboard](https://public.tableau.com/app/profile/max.tollefsen/viz/OverwatchLeague2018/OWL2018Dashboard){:target="_blank" rel="noopener"}
