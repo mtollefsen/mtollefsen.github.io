@@ -21,15 +21,16 @@ This is an unofficial online companion to the book *[Masters of Doom: How Two Gu
 
 ## Chapter 1 - The Rock Star
 page 3 - Asteroids (arcade game)
-  - [Wikipedia entry](https://en.wikipedia.org/wiki/Asteroids_(video_game)){:target="_blank" rel="noopener"}
   - [Browser version of the game](https://freeasteroids.org/){:target="_blank" rel="noopener"}
+  - [Wikipedia entry](https://en.wikipedia.org/wiki/Asteroids_(video_game)){:target="_blank" rel="noopener"}
 
 page 6 - James Dallas Egbert III
   - [Book referenced by the author](https://www.amazon.com/Dungeon-Master-Disappearance-Dallas-Egbert/dp/0395355362){:target="_blank" rel="noopener"}
   - [Wikiepedia entry](https://en.wikipedia.org/wiki/James_Dallas_Egbert_III){:target="_blank" rel="noopener"}
 
 page 6 - Colossal Cave Adventure (text based computer game)
-  - [Wikipedia entry](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure){:target="_blank" rel="noopener"}
   - [Browser version of the game](http://rickadams.org/adventure/advent/){:target="_blank" rel="noopener"}
+  - [Website with more information on Colossal Cave Adventure and the "Adventure" series](https://rickadams.org/adventure/)
+  - [Wikipedia entry](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure){:target="_blank" rel="noopener"}
 
 ## Chapter 2 - The Rocket Scientist
