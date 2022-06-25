@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Max Tollefsen's Website"
+title                    : "Homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Max Tollefsen"
@@ -116,13 +116,13 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://mtollefsen.github.io"
-    - label: "LinkedIn"
+    - label: " LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/max-tollefsen/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mtollefsen"
-    - label: "Public Tableau"
+    - label: " Public Tableau"
       icon: "far fa-chart-bar"
       url: "https://public.tableau.com/app/profile/max.tollefsen"
 
