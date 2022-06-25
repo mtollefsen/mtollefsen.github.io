@@ -15,7 +15,7 @@ This is an unofficial online companion to the book *[Masters of Doom: How Two Gu
 
 **BE AWARE THAT SOME OF THE CONTENTS OF MASTERS OF DOOM IS EXPLICIT AND THEREFORE SOME OF THE CONTENTS OF THIS COMPANION IS EXPLICIT AS WELL.**
 
-#### Chapter 1 - The Rock Star
+## Chapter 1 - The Rock Star
 page 3 - Asteroids (arcade game)
   - [Wikipedia entry](https://en.wikipedia.org/wiki/Asteroids_(video_game))
   - [Knock-Off browser version of the game you can play for free](https://freeasteroids.org/)
@@ -25,4 +25,4 @@ page 6 - James Dallas Egbert III
   - [Wikiepedia entry](https://en.wikipedia.org/wiki/James_Dallas_Egbert_III)
 
 
-#### Chapter 2 - The Rocket Scientist
+## Chapter 2 - The Rocket Scientist
