@@ -16,8 +16,6 @@ This is an unofficial online companion to the book *[Masters of Doom: How Two Gu
 **Notice:** Some of the contents of Masters of Doom, and thus this companion page, is explicit.
 {: .notice--warning}
 
-**BE AWARE THAT SOME OF THE CONTENTS OF MASTERS OF DOOM IS EXPLICIT AND THEREFORE SOME OF THE CONTENTS OF THIS COMPANION IS EXPLICIT AS WELL.**
-
 ## Chapter 1 - The Rock Star
 page 3 - Asteroids (arcade game)
   - [Wikipedia entry](https://en.wikipedia.org/wiki/Asteroids_(video_game)){:target="_blank" rel="noopener"}
