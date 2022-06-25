@@ -2,8 +2,8 @@
 # main links
 # https://mtollefsen.github.io/about-me/
 main:
-  - title: "Data Portfolio"
-    url: /data-portfolio
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "Blog"
     url: /blog/
   - title: "Unofficial Masters Of Doom Companion"
