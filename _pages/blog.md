@@ -9,4 +9,6 @@ author_profile: true
 comments: false
 ---
 
-Placeholder
+{% for post in site.posts %}
+  {% include archive-single.html %}
+{% endfor%}
