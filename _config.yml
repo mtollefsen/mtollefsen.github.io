@@ -115,7 +115,7 @@ author:
       url: "mailto:max.tollefsen@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://mtollefsen.github.io"
+      url: # "https://mtollefsen.github.io"
     - label: "  LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/max-tollefsen/"
