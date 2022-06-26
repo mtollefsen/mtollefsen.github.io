@@ -14,7 +14,7 @@ tags: Tableau Overwatch League
 ```
 >BRIEF
 ```
-  Using data from the Overwatch League I created a Tableau dashboard of the 2018 Overwatch League rankings as well as a Tableau "story" analyising the grand finals.
+  Using data from the Overwatch League I created a Tableau dashboard of the 2018 Overwatch League rankings as well as a Tableau "story" analysing the grand finals.
   
   
 ```
