@@ -4,7 +4,6 @@ title:  "Overwatch League Data Cleanup"
 excerpt: "I used SQL to clean 4,958,301 rows of data from the Overwatch League and organized the data into an SQL database that was connected, easy to access, and immediately ready for use."
 breadcrumbs: true
 tag: Overwatch League
-tag: Another tesT
 tags: SQL
 ---
 
@@ -39,13 +38,3 @@ tags: SQL
   Many times I had to consult VODs of the matches using the URL [https://overwatchleague.com/en-us/match/match_id](https://overwatchleague.com/en-us/match/match_id){:target="_blank" rel="noopener"} (replacing "match_id" with the actual match ID) or [Liquipedia](https://liquipedia.net/overwatch/Main_Page) to ensure I was understanding where my data was incorrect and how I might troubleshoot it.
   
   ![Overwatch League Database Schema](/assets/images/Overwatch League Database Schema.png)
-  
-  
-\>INVENTORY
-{: .notice--primary}
-
-\>BRIEF
-{: .notice--primary}
-
-\>VERBOSE
-{: .notice--primary}
