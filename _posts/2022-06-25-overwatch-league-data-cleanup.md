@@ -6,9 +6,11 @@ breadcrumbs: true
 ---
 
 ```
+import pandas as pd
+df = "dog fight"
 test code block
 looking good
-cat
+print(cat)
 ```
 
 \>INVENTORY
