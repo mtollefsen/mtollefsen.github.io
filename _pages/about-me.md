@@ -6,7 +6,7 @@ author_profile: false
 comments: false
 ---
 
-![GitHub Website Author](/assets/images/GitHub Website Author.jpeg){: .align-center style="width: 80%;"}
+![Author](/assets/images/Author.jpeg){: .align-center style="width: 80%;"}
 Me and my sometimes loyal companion Loki.
 {: style="text-align: center; font-size:0.8em;"}
 
