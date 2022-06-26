@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Overwatch League Data Cleanup"
+title:  "Overwatch League 2018 Dashboard"
 excerpt: "Using data from the Overwatch League I created a Tableau dashboard of the 2018 Overwatch League rankings as well as a Tableau "story" analyising the grand finals."
 breadcrumbs: true
 tags: Overwatch League Tableau
