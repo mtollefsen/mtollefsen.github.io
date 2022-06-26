@@ -24,4 +24,5 @@ tags: Overwatch League Tableau
   
   ![owl-2018-dashboard-example](/assets/images/owl-2018-dashboard-example.png)
   
-  The second tab
+  The second tab uses Tableau's "story" feature to walk the viewer through an exploratory analysis of the 2018 OWL data, providing insight on the strategy at the time, gleaming insights from the stats, and posing interesting questions worthy of further investigation.
+  To be true to the OWL and Overwatch brand I inserted custom colors and images so I could represent every OWL team's branding as well as every Overwatch heroes' unique color scheme and icons.
