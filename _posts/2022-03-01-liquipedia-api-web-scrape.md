@@ -13,6 +13,7 @@ tags: Overwatch League Python SQL API Web Scrape
 >INVENTORY
 ```
 - Python
+- SQL
 
 ```
 >BRIEF
