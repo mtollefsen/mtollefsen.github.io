@@ -5,12 +5,14 @@ excerpt: "I used SQL to clean 4,958,301 rows of data from the Overwatch League a
 breadcrumbs: true
 ---
 
+~~~py
+import numpy as np
+a=np.arange(5)
+print(a+a)
+~~~
+
 ```
-import pandas as pd
-df = "dog fight"
-test code block
-looking good
-print(cat)
+>INVENTORY
 ```
 
 \>INVENTORY
