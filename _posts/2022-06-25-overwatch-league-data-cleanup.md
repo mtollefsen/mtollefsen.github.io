@@ -5,9 +5,11 @@ excerpt: "I used SQL to clean 4,958,301 rows of data from the Overwatch League a
 breadcrumbs: true
 ---
 
-`test code block`
-`looking good
-cat`
+```
+test code block
+looking good
+cat
+```
 
 \>INVENTORY
 {: .notice--primary}
