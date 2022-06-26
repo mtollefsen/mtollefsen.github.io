@@ -21,3 +21,4 @@ tags: Overwatch League Python
 ```
 >VERBOSE
 ```
+  I wrote Python code that looks through the list of Overwatch League players present in my [Overwatch League database](/overwatch-league-data-cleanup/){:target="_blank" rel="noopener"} and gets information from Liquipedia.net by parsing the HTML code from...
