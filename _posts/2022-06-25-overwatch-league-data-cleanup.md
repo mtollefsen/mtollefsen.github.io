@@ -3,8 +3,6 @@ layout: single
 title:  "Overwatch League Data Cleanup"
 ---
 
-`>INVENTORY`
-
 \>INVENTORY
 {: .notice--primary}
 - SQL
