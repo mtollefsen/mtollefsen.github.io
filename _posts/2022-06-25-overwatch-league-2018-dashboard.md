@@ -1,9 +1,9 @@
 ---
 layout: single
 title:  "Overwatch League 2018 Dashboard"
-excerpt: "Using data from the Overwatch League I created a Tableau dashboard of the 2018 Overwatch League rankings as well as a Tableau "story" analyising the grand finals."
+excerpt: "Using data from the Overwatch League I created a Tableau dashboard of the 2018 Overwatch League rankings as well as a Tableau \"story\" analysing the grand finals."
 breadcrumbs: true
-tags: Overwatch League Tableau
+tags: Tableau Overwatch League
 ---
 
 ```
@@ -25,4 +25,5 @@ tags: Overwatch League Tableau
   ![owl-2018-dashboard-example](/assets/images/owl-2018-dashboard-example.png)
   
   The second tab uses Tableau's "story" feature to walk the viewer through an exploratory analysis of the 2018 OWL data, providing background on the prevailing strategy at the time, gleaming insights from the stats, and posing interesting questions worthy of further investigation.
+  
   To more authentically represent the OWL and Overwatch brand I manually added custom colors into Tableau that matched every OWL team's and every Overwatch hero's color scheme. Similarly, I also downloaded and manually added every OWL team's logo and every Overwatch hero's icon into Tableau.
