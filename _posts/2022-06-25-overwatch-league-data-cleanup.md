@@ -3,8 +3,7 @@ layout: single
 title:  "Overwatch League Data Cleanup"
 excerpt: "I used SQL to clean 4,958,301 rows of data from the Overwatch League and organized the data into an SQL database that was connected, easy to access, and immediately ready for use."
 breadcrumbs: true
-tags: SQL
-tag: Overwatch League
+tags: SQL Overwatch League
 ---
 
 ```
@@ -30,7 +29,7 @@ tag: Overwatch League
   - Outdated names  (e.g. McRee has since been renamed to Cassidy)
   - Lack of overarching organizational structure
 
-  After transforming the data with SQL code (which you can find on my GitHub [here](https://github.com/mtollefsen/overwatch-league-data-projects/tree/main/Data%20Cleanup){:target="_blank" rel="noopener"}) the end result was a connected database of 7 tables (pictured below) in first normal form. I fixed all of the problems listed above and further enhanced the data by adding:
+  After transforming the data with SQL code (which you can find on my GitHub [here](https://github.com/mtollefsen/overwatch-league-data-projects/tree/main/Data%20Cleanup){:target="_blank" rel="noopener"}) the end result was a connected database of 7 tables (pictured below) in first normal form. This database forms the foundation for the other Overwatch League related projects. I fixed all of the problems listed above and further enhanced the data by adding:
   - **primary** and *foreign* keys
   - constraints
   - data on all of Overwatch's current heroes (the `hero` table in the image below)
