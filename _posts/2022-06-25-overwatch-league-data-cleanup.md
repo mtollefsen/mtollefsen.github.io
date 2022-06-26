@@ -5,28 +5,20 @@ excerpt: "I used SQL to clean 4,958,301 rows of data from the Overwatch League a
 breadcrumbs: true
 ---
 
-~~~py
-import numpy as np
-a=np.arange(5)
-print(a+a)
-~~~
-
 ```
 >INVENTORY
 ```
-
-\>INVENTORY
-{: .notice--primary}
 - SQL
 
-\>BRIEF
-{: .notice--primary}
-
+```
+>BRIEF
+```
   I used SQL to clean 4,958,301 rows of data from the Overwatch League and organized the data into an SQL database that was connected, easy to access, and immediately ready for use.
   
-\>VERBOSE
-{: .notice--primary}
-
+  
+```
+>VERBOSE
+```
   I took data from [the Overwatch League website](https://overwatchleague.com/en-us/statslab){:target="_blank" rel="noopener"} and uploaded it to my SQLite database. This was 4,958,301 rows of data from 14 flat CSV files. Some of the challenges with this data included:
   - Spelling errors
   - Inconsistent formatting  (e.g. match start times were in different time formats)
@@ -44,3 +36,13 @@ print(a+a)
   Many times I had to consult VODs of the matches using the URL [https://overwatchleague.com/en-us/match/match_id](https://overwatchleague.com/en-us/match/match_id){:target="_blank" rel="noopener"} (replacing "match_id" with the actual match ID) or [Liquipedia](https://liquipedia.net/overwatch/Main_Page) to ensure I was understanding where my data was incorrect and how I might troubleshoot it.
   
   ![Overwatch League Database Schema](/assets/images/Overwatch League Database Schema.png)
+  
+  
+\>INVENTORY
+{: .notice--primary}
+
+\>BRIEF
+{: .notice--primary}
+
+\>VERBOSE
+{: .notice--primary}
