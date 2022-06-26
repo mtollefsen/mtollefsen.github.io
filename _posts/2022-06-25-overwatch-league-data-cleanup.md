@@ -4,6 +4,7 @@ title:  "Overwatch League Data Cleanup"
 excerpt: "I used SQL to clean 4,958,301 rows of data from the Overwatch League and organized the data into an SQL database that was connected, easy to access, and immediately ready for use."
 breadcrumbs: true
 author_profile: true
+share: true
 tags: SQL Overwatch League
 ---
 
