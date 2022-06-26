@@ -4,6 +4,7 @@ title:  "The Assault on Assault: An Analysis of Overwatch’s Most Despised Game
 excerpt: "I wrote an article-like Jupyter notebook showing why Overwatch's Assault is a heavily disliked game mode, what the Overwatch development team is doing about it, and what I think should be done, using data from the Overwatch League to support my points."
 breadcrumbs: true
 author_profile: true
+related: true
 share: true
 tags: Overwatch League Jupyter Notebook SQL Python
 ---
