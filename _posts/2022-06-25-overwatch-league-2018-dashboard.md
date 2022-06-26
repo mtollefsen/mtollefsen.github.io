@@ -3,6 +3,7 @@ layout: single
 title:  "Overwatch League 2018 Dashboard"
 excerpt: "Using data from the Overwatch League I created a Tableau dashboard of the 2018 Overwatch League rankings as well as a Tableau \"story\" analysing the grand finals."
 breadcrumbs: true
+author_profile: true
 tags: Tableau Overwatch League
 ---
 
