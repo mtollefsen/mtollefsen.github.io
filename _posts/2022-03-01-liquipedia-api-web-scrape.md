@@ -30,10 +30,7 @@ tags: Overwatch League Python SQL API Web Scrape
   
   My code accomplishes this by first taking every player's name currently in my database and sending GET requests to Liqupedia's API looking for the webpage on Liqupedia.net that matches that players game handle. When found, Liquipedia sends back the HTML code for that page which my code parses for the above listed information. After an attempt has been made to scrape every player's information from Liqupedia the resulting data is uploaded to my SQL database and automatically connected to each players in game handle.
   
-  Because each webpage is case sensitive the code will try to search multiple formats of a player's in game name if the previous format doesn't find a webpage.
-  
-  Example
-  We are trying to find the webpage for a player whose in game name is listed as "WiNner BIRD", the code will send GET requests for the following webpages until one is found or none work:
+  Because each webpage is case sensitive the code will try to search multiple formats of a player's in game name if the previous format doesn't find a webpage. Here's an example, we are trying to find the webpage for a player whose in game name is listed as "WiNner BIRD", the code will send GET requests for the following webpages until one is found or none work:
   
    |    Format    |     Page    |
    |--------------|-------------|
