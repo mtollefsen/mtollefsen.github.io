@@ -20,4 +20,4 @@ tags: Overwatch League Tableau
 ```
 >VERBOSE
 ```
-  Using the 2018 data from the Overwtach League that I cleaned and organized I created a [Tableau dashboard](https://public.tableau.com/app/profile/max.tollefsen/viz/OverwatchLeague2018/OWL2018Dashboard){:target="_blank" rel="noopener"} with two tabs. The first tab  tab 
+  Using the 2018 data from the Overwatch League that I [cleaned and organized]() I created a [Tableau dashboard](https://public.tableau.com/app/profile/max.tollefsen/viz/OverwatchLeague2018/OWL2018Dashboard){:target="_blank" rel="noopener"} with two tabs. The first tab shows teh rankings of every team
