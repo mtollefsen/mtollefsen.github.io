@@ -9,5 +9,3 @@ toc: true
 author_profile: true
 comments: false
 ---
-
-{{site.categories.portfolio}}
