@@ -1,5 +1,5 @@
 ---
-title:  "Hello and Welcome"
+title:  "Hello"
 layout: single
 permalink: /
 author_profile: true
