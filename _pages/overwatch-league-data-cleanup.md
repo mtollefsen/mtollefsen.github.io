@@ -16,7 +16,7 @@ share: true
 ```
 >BRIEF
 ```
-  I used SQL to clean 4,958,301 rows of data from the Overwatch League and organized the data into an SQL database that is connected, easy to access, and immediately ready for use.
+  I used [SQL code](https://github.com/mtollefsen/overwatch-league-data-projects/tree/main/Data%20Cleanup){:target="_blank" rel="noopener"} to clean 4,958,301 rows of data from the Overwatch League and organized the data into an SQL database that is connected, easy to access, and immediately ready for use.
   
   
 ```
@@ -31,7 +31,7 @@ share: true
   - Outdated names  (e.g. McRee has since been renamed to Cassidy)
   - Lack of overarching organizational structure
 
-  After transforming the data with [SQL code](https://github.com/mtollefsen/overwatch-league-data-projects/tree/main/Data%20Cleanup){:target="_blank" rel="noopener"}) the end result was a connected database of 7 tables (pictured below) in first normal form. This database forms the foundation for the other Overwatch League related projects. I fixed all of the problems listed above and further enhanced the data by adding:
+  After transforming the data with [SQL code](https://github.com/mtollefsen/overwatch-league-data-projects/tree/main/Data%20Cleanup){:target="_blank" rel="noopener"} the end result was a connected database of 7 tables (pictured below) in first normal form. This database forms the foundation for the other Overwatch League related projects. I fixed all of the problems listed above and further enhanced the data by adding:
   - **primary** and *foreign* keys
   - constraints
   - data on all of Overwatch's current heroes (the `hero` table in the image below)
@@ -39,3 +39,5 @@ share: true
   Many times I had to consult VODs of the matches using the URL [https://overwatchleague.com/en-us/match/match_id](https://overwatchleague.com/en-us/match/match_id){:target="_blank" rel="noopener"} (replacing "match_id" with the actual match ID) or [Liquipedia](https://liquipedia.net/overwatch/Main_Page) to ensure I was understanding where my data was incorrect and how I might troubleshoot it.
   
   ![Overwatch League Database Schema](/assets/images/Overwatch League Database Schema.png)
+
+
