@@ -6,7 +6,5 @@ main:
     url: /portfolio/
   - title: "Blog"
     url: /blog/
-  - title: "Unofficial Masters Of Doom Companion"
-    url: /unofficial-masters-of-doom-companion/
   - title: "About Me"
     url: /about-me/
