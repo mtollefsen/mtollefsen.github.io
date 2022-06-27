@@ -9,3 +9,7 @@ toc: true
 author_profile: true
 comments: false
 ---
+
+{% for post in site.categories.Photo %}
+    {% include archive-single.html %}
+{% endfor %}
