@@ -1,6 +1,7 @@
 ---
 title:  "Portfolio"
 layout: categories
+taxonomy: portfolio
 header:
   overlay_image: /assets/images/BLANK.jpg
 permalink: /portfolio/
