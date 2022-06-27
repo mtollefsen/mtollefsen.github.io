@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: wide
 title:  "Liquipedia API Web Scrape"
 excerpt: "I wrote Python code that web scrapes Liquipedia.net for information on Overwatch League players with a 98% success rate and uploads the data to my Overwatch League SQL database."
 breadcrumbs: true
@@ -44,8 +44,9 @@ tags: Overwatch League Python SQL API Web Scrape
   
   Below is a flow chart that shows the code's logic:
   
-![Liquipedia API Requests Flow Chart](/assets/images/Liquipedia API Requests Flow Chart.png)
-Note: Per Liquipedia's API Terms of Use all requests are spaced out by 30 seconds, which is reflected in the flow chart.{: style="text-align: center; font-size:0.8em;"}
+![Liquipedia API Requests Flow Chart](/assets/images/Liquipedia API Requests Flow Chart.png){: .align-center}
+Note: Per Liquipedia's API Terms of Use all requests are spaced out by 30 seconds, which is reflected in the flow chart.
+{: style="text-align: center; font-size:0.8em;"}
 
 **Copyright:** Liquipedia content is licensed under CC-BY-SA 3.0, which requires that you attribute Liquipedia as the source of your data. See [Liquipedia:Copyrights](https://liquipedia.net/commons/Liquipedia:Copyrights){:target="_blank" rel="noopener"} for more information.
 {: .notice--info}
