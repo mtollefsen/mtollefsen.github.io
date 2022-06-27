@@ -33,13 +33,17 @@ tags: Overwatch League Python SQL API Web Scrape
   
   Because each webpage is case sensitive the code will try to search multiple formats of a player's in game name if the previous format doesn't find a webpage. Here's an example, we are trying to find the webpage for a player whose in game name is listed as "WiNner BIRD", the code will send GET requests for the following webpages until one is found or none work:
   
+<center>
+  
    |    Format    |     Page    |
    |--------------|-------------|
    | Original     | WiNner BIRD |
    | Capital case | Winner bird |
    | Title case   | Winner Bird |
    | Upper case   | WINNER BIRD |
-   | Lower case   | winner bird |{: style="text-align: center;"}
-   
+   | Lower case   | winner bird |
+  
+<center>
    
   ![Liquipedia API Requests Flow Chart](/assets/images/Liquipedia API Requests Flow Chart.png)
+  {: .align-center style="width: 80%;"} Note: Per [Liquipedia's API Terms of Use](https://liquipedia.net/api-terms-of-use){:target="_blank" rel="noopener"} all requests are spaced out by 30 seconds, which is reflected in the flow chart. {: style="text-align: center; font-size:0.8em;"}
