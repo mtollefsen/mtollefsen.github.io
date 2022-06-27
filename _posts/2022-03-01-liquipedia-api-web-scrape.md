@@ -43,7 +43,7 @@ tags: Overwatch League Python SQL API Web Scrape
    | Upper case   | WINNER BIRD |
    | Lower case   | winner bird |
   
-<center>
+</center>
    
 ![Liquipedia API Requests Flow Chart](/assets/images/Liquipedia API Requests Flow Chart.png){: .align-center style="width: 80%;"} 
 Note: Per [Liquipedia's API Terms of Use](https://liquipedia.net/api-terms-of-use){:target="_blank" rel="noopener"} all requests are spaced out by 30 seconds, which is reflected in the flow chart. {: style="text-align: center; font-size:0.8em;"}
