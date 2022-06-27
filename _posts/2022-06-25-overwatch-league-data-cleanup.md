@@ -7,7 +7,7 @@ breadcrumbs: true
 author_profile: true
 related: true
 share: true
-tags: SQL Overwatch League
+tags: [SQL, Overwatch League]
 ---
 
 ```
