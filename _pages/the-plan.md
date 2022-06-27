@@ -10,7 +10,7 @@ author_profile: true
 
 What is "The Plan"?
 
-The Plan is a list of milestones, mostly educational ones, I set for myself to know I'm on the right path in my career. Like most plans, The Plan isn't set in stone as different circumstances may arsise.
+The Plan is a list of milestones (almost exclusively career and education related) I set for myself. This helps motivate me, know that I'm on track towards larger goals, and helps get me a better idea of what my workload might be at different points in the future.
 
 #### Spring 2022
 
