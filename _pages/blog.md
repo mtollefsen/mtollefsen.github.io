@@ -1,5 +1,5 @@
 ---
-title:  "Blog"
+title: "Blog Posts By Year"
 layout: posts
 classes: wide
 header:
