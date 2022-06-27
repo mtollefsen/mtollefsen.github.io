@@ -1,13 +1,11 @@
 ---
+title: "Liquipedia API Web Scrape"
 layout: single
 classes: wide
-title:  "Liquipedia API Web Scrape"
-excerpt: "I wrote Python code that web scrapes Liquipedia.net for information on Overwatch League players with a 98% success rate and uploads the data to my Overwatch League SQL database."
+permalink: /portfolio/liquipedia-api-web-scrape/
 breadcrumbs: true
 author_profile: true
-related: true
 share: true
-tags: [Overwatch League, Python, SQL, API, Web Scrape]
 ---
 
 ```
