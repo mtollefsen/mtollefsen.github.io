@@ -1,5 +1,6 @@
 ---
 title:  "Unofficial Masters of Doom Companion"
+excerpt: "An unofficial companion to the book *Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture*  by David Kushner."
 layout: single
 header:
   overlay_image: /assets/images/doom-banner.png
