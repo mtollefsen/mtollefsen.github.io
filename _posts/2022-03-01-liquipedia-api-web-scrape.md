@@ -23,7 +23,7 @@ tags: Overwatch League Python SQL API Web Scrape
 ```
 >VERBOSE
 ```
-  Liquipedia.net has an entry on most (if not all) professional Overwatch League (OWL) players. My [Overwatch League database](/overwatch-league-data-cleanup/){:target="_blank" rel="noopener"}, in contrast, only has each player's in game name. To remedy this I wrote a Python script that would get a player's information from Liquipedia and upload it to my SQL database. Specifically the code grabs information on a player's:
+  Liquipedia.net has an entry on most (if not all) professional Overwatch League (OWL) players. My [Overwatch League database](/overwatch-league-data-cleanup/){:target="_blank" rel="noopener"}, in contrast, only has each player's in game name. To remedy this I wrote a Python script that would scrape a player's information from Liquipedia.net and upload it to my SQL database. Specifically the code grabs information on a player's:
   - real name 
   - romanized name (if applicable)
   - birthday
