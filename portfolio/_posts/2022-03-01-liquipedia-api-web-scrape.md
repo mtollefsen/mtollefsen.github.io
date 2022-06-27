@@ -46,7 +46,7 @@ tags: Overwatch League Python SQL API Web Scrape
   Below is a flow chart that shows the code's logic:
   
 ![Liquipedia API Requests Flow Chart](/assets/images/Liquipedia API Requests Flow Chart.png){: .align-center}
-Per Liquipedia's API Terms of Use all requests are spaced out by 30 seconds.
+Per Liquipedia's API Terms of Use all requests are spaced out by 30 seconds
 {: style="text-align: center; font-size:0.8em;"}
 
 **Copyright:** Liquipedia content is licensed under CC-BY-SA 3.0, which requires that you attribute Liquipedia as the source of your data. See [Liquipedia:Copyrights](https://liquipedia.net/commons/Liquipedia:Copyrights){:target="_blank" rel="noopener"} for more information.
