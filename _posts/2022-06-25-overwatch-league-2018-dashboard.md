@@ -7,7 +7,7 @@ breadcrumbs: true
 author_profile: true
 related: true
 share: true
-tags: Tableau Overwatch League
+tags: [Tableau, Overwatch League]
 ---
 
 ```
