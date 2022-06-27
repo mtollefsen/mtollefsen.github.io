@@ -1,6 +1,6 @@
 ---
 title:  "Blog"
-layout: single
+layout: posts
 classes: wide
 header:
   overlay_image: /assets/images/BLANK.jpg
