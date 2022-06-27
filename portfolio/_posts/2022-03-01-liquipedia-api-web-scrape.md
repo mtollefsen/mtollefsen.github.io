@@ -7,7 +7,7 @@ breadcrumbs: true
 author_profile: true
 related: true
 share: true
-tags: Overwatch League Python SQL API Web Scrape
+tags: [Overwatch League, Python, SQL, API, Web Scrape]
 ---
 
 ```
