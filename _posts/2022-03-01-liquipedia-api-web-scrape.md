@@ -38,5 +38,12 @@ tags: Overwatch League Python SQL API Web Scrape
   - WINNER BIRD (upper case)
   - winner bird (lower case)
   
+  Occasionally the code will reach a page that isn't the player's Liquipedia entry but instead has one or more redirect links to different entries on the site. If the code encounters only one redirect link it will send it's next GET request to the redirect link provided and get the player's information from that link if possible (a single redirect link is common where a player's name is commonly misspelled). If the code encounteres multiple redirect links it will mark the player's name as "ambiguous" and move on to the next player name on its list (multiple redirect links are common when multiple player's share the same name, see the Liquipedia page for [Snow](https://liquipedia.net/overwatch/Snow){:target="_blank" rel="noopener"} as an example). Finally, if the code is not able to find a player's Liquipedia page after exahusitng all of its options it will mark the player's name with "could not find page".
+  
+  Below is an flow chart that shows the code's logic:
+  
 ![Liquipedia API Requests Flow Chart](/assets/images/Liquipedia API Requests Flow Chart.png)
 Note: Per [Liquipedia's API Terms of Use](https://liquipedia.net/api-terms-of-use) all requests are spaced out by 30 seconds, which is reflected in the flow chart.{: style="text-align: center; font-size:0.8em;"}
+
+Source & Copyright: Liquipedia content is licensed under CC-BY-SA 3.0, which requires that you attribute Liquipedia as the source of your data. See [Liquipedia:Copyrights](https://liquipedia.net/commons/Liquipedia:Copyrights){:target="_blank" rel="noopener"} for more information.
+{: .notice--info}
