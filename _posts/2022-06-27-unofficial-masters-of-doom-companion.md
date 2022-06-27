@@ -3,12 +3,13 @@ title:  "Unofficial Masters of Doom Companion"
 layout: single
 header:
   overlay_image: /assets/images/doom-banner.png
-permalink: /unofficial-masters-of-doom-companion/
 toc: true
 toc_label: "Contents"
 breadcrumbs: true
-author_profile: false
+author_profile: true
+share: true
 comments: false
+tags: [Masters Of Doom]
 ---
 
 **Notice:** This page is still a work in progress
