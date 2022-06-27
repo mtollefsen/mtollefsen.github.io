@@ -1,6 +1,6 @@
 ---
 title:  "Portfolio"
-layout: category
+layout: tag
 taxonomy: portfolio
 header:
   overlay_image: /assets/images/BLANK.jpg
