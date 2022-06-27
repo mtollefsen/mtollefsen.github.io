@@ -9,11 +9,6 @@ share: true
 ---
 
 ```
->EXAMINE
-```
-  [Click here to go to the Tableau dashboard.](https://public.tableau.com/app/profile/max.tollefsen/viz/OverwatchLeague2018/OWL2018Dashboard){:target="_blank" rel="noopener"}
-
-```
 >INVENTORY
 ```
 - Tableau
@@ -27,7 +22,7 @@ share: true
 ```
 >VERBOSE
 ```
-  Using the data from the Overwatch League (OWL) that I [cleaned and organized](/overwatch-league-data-cleanup/) I created a [Tableau dashboard](https://public.tableau.com/app/profile/max.tollefsen/viz/OverwatchLeague2018/OWL2018Dashboard){:target="_blank" rel="noopener"} with two tabs centered around the 2018 OWL season. The first tab shows a dashboard of the rankings of every team through all four stages of the 2018 season and includes each teams' average matches and games won per stage. There is also a comparison of each teams' starting and ending rank. Clicking any element of the dashboard will highlight every element that belongs to the same team as the element that was clicked (see example below). Holding control while clicking elements will allow you to highlight multiple elements (and thus teams).
+  Using the data from the Overwatch League (OWL) that I [cleaned and organized](/portfolio/overwatch-league-data-cleanup/) I created a [Tableau dashboard](https://public.tableau.com/app/profile/max.tollefsen/viz/OverwatchLeague2018/OWL2018Dashboard){:target="_blank" rel="noopener"} with two tabs centered around the 2018 OWL season. The first tab shows a dashboard of the rankings of every team through all four stages of the 2018 season and includes each teams' average matches and games won per stage. There is also a comparison of each teams' starting and ending rank. Clicking any element of the dashboard will highlight every element that belongs to the same team as the element that was clicked (see example below). Holding control while clicking elements will allow you to highlight multiple elements (and thus teams).
   
   ![owl-2018-dashboard-example](/assets/images/owl-2018-dashboard-example.png)
   
