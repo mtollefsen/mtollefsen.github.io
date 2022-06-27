@@ -7,7 +7,7 @@ breadcrumbs: true
 author_profile: true
 related: true
 share: true
-tags: Overwatch League Jupyter Notebook SQL Python Portfolio
+tags: [Overwatch League, Jupyter Notebook, SQL, Python, Portfolio]
 ---
 
 ```
