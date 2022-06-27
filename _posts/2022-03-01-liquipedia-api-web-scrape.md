@@ -42,10 +42,10 @@ tags: Overwatch League Python SQL API Web Scrape
   
   At the time of writing this (March 1, 2022) of the 373 players it searched for, the code successfully found the pages and scraped the information of 364 players, a ~98% success rate.
   
-  Below is an flow chart that shows the code's logic:
+  Below is a flow chart that shows the code's logic:
   
 ![Liquipedia API Requests Flow Chart](/assets/images/Liquipedia API Requests Flow Chart.png)
-Note: Per [Liquipedia's API Terms of Use](https://liquipedia.net/api-terms-of-use) all requests are spaced out by 30 seconds, which is reflected in the flow chart.{: style="text-align: center; font-size:0.8em;"}
+Note: Per Liquipedia's API Terms of Use all requests are spaced out by 30 seconds, which is reflected in the flow chart.{: style="text-align: center; font-size:0.8em;"}
 
-Source & Copyright: Liquipedia content is licensed under CC-BY-SA 3.0, which requires that you attribute Liquipedia as the source of your data. See [Liquipedia:Copyrights](https://liquipedia.net/commons/Liquipedia:Copyrights){:target="_blank" rel="noopener"} for more information.
+**Copyright:** Liquipedia content is licensed under CC-BY-SA 3.0, which requires that you attribute Liquipedia as the source of your data. See [Liquipedia:Copyrights](https://liquipedia.net/commons/Liquipedia:Copyrights){:target="_blank" rel="noopener"} for more information.
 {: .notice--info}
