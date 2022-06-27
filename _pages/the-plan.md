@@ -19,5 +19,5 @@ This is a list of milestones (almost exclusively career and education related) I
 #### Future
   These are milestones I know I want to hit but don't have a set date that they have to be achieved by.
   
-#### Georgia Tech Master's in Computer Science with a concentration in Machine Learning
+#### Georgia Tech MS in Computer Science Concentration in Machine Learning
   List of all the classes I'm interested in taking.
