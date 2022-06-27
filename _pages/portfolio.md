@@ -17,9 +17,13 @@ comments: false
 
 #### [Overwatch League 2018 Dashboard](/portfolio/overwatch-league-2018-dashboard/)
   Tableau dashboard of the 2018 Overwatch League rankings as well as a Tableau "story" analysing the 2018 grand finals of the Overwatch League.
+  
+  ![owl-2018-dashboard-example](/assets/images/owl-2018-dashboard-example.png)
 
 #### [The Assault on Assault: An Analysis of Overwatch's Most Despised Game Mode](https://nbviewer.org/github/mtollefsen/overwatch-league-data-projects/blob/main/Notebooks/The%20Assault%20on%20Assault.ipynb){:target="_blank" rel="noopener"}
   (If you click the link, please give it a minute to load) An article-like Jupyter notebook showing why Overwatch's Assault is a heavily disliked game mode, what the Overwatch development team is doing about it, and what I think should be done, using data from the Overwatch League to support my points.
   
 #### [Liquipedia API Web Scrape](/portfolio/liquipedia-api-web-scrape/)
   Python code that web scrapes Liquipedia.net for information on Overwatch League players with a 98% success rate and uploads the data to my Overwatch League SQL database.
+
+  ![Liquipedia API Requests Flow Chart](/assets/images/Liquipedia API Requests Flow Chart.png)
