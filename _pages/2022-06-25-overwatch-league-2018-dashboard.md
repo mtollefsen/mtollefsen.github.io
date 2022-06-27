@@ -1,13 +1,11 @@
 ---
+title: "Overwatch League 2018 Dashboard"
 layout: single
 classes: wide
-title:  "Overwatch League 2018 Dashboard"
-excerpt: "Using data from the Overwatch League I created a Tableau dashboard of the 2018 Overwatch League rankings as well as a Tableau \"story\" analysing the grand finals."
+permalink: /portfolio/overwatch-league-2018-dashboard/
 breadcrumbs: true
 author_profile: true
-related: true
 share: true
-tags: [Tableau, Overwatch League]
 ---
 
 ```
