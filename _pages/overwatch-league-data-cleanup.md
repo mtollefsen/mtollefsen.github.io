@@ -1,13 +1,11 @@
 ---
+title: "Overwatch League Data Cleanup"
 layout: single
 classes: wide
-title:  "Overwatch League Data Cleanup"
-excerpt: "I used SQL to clean 4,958,301 rows of data from the Overwatch League and organized the data into an SQL database that was connected, easy to access, and immediately ready for use."
+permalink: /portfolio/overwatch-league-data-cleanup/
 breadcrumbs: true
 author_profile: true
-related: true
 share: true
-tags: [SQL, Overwatch League]
 ---
 
 ```
@@ -18,7 +16,7 @@ tags: [SQL, Overwatch League]
 ```
 >BRIEF
 ```
-  I used SQL to clean 4,958,301 rows of data from the Overwatch League and organized the data into an SQL database that was connected, easy to access, and immediately ready for use.
+  I used SQL to clean 4,958,301 rows of data from the Overwatch League and organized the data into an SQL database that is connected, easy to access, and immediately ready for use.
   
   
 ```
