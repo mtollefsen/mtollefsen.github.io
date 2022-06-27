@@ -1,13 +1,10 @@
 ---
-title:  " "
+title:  "Hello and Welcome"
 layout: single
 permalink: /
-header:
-  overlay_image: /assets/images/houston banner.jpg
 author_profile: true
 comments: false
 ---
-# Hello and Welcome
 
 My name is [Max](/about-me/) and welcome to my website. I'm a Data Scientist by trade and am currently based in Houston, Texas (although I'm always open to an adventure in a new city!).
 
