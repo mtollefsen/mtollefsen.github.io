@@ -6,6 +6,7 @@ header:
   overlay_image: /assets/images/BLANK.jpg
 permalink: /blog/
 author_profile: true
+toc: true
 comments: false
 ---
 
