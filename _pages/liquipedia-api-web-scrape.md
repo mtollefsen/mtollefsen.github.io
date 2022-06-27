@@ -12,6 +12,7 @@ share: true
 >INVENTORY
 ```
 - Python
+  - BeautifulSoup
 - SQL
 
 ```
