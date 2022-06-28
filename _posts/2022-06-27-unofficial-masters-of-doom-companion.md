@@ -13,10 +13,10 @@ comments: false
 tags: [Masters Of Doom]
 ---
 
-**Notice:** This page is still a work in progress
+**Notice:** This companion is still a work in progress
 {: .notice}
 
-This is an unofficial online companion to the book *[Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture](https://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155){:target="_blank" rel="noopener"}* (non-affiliate link) written by David Kushner. Below are links to different images, videos, games, and more in the order that they appear in the book. I do not own or host any of the media linked here nor do I have any affiliate links on this page. Unless stated otherwise "the author" refers to the book's author David Kushner.
+This is an unofficial online companion to the book *[Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture](https://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155){:target="_blank" rel="noopener"}* written by David Kushner. Below are links to different images, videos, games, and more in the order that they appear in the book. I do not own or host any of the media linked here nor do I have any affiliate links on this page. Unless stated otherwise "the author" refers to the book's author David Kushner.
 
 **Warning:** Some of the contents of Masters of Doom, and thus this companion page, is explicit.
 {: .notice--warning}
