@@ -6,10 +6,6 @@ author_profile: false
 comments: false
 ---
 
-```
->EXAMINE
-```
-
 ![Author](/assets/images/Author.png){: .align-center style="width: 80%;"}
 *Me and my sometimes loyal companion Loki*
 {: style="text-align: center; font-size:0.8em;"}
