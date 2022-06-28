@@ -7,7 +7,7 @@ comments: false
 ---
 
 ![Author](/assets/images/Author.png){: .align-center style="width: 80%;"}
-Me and my sometimes loyal companion Loki
+*Me and my sometimes loyal companion Loki*
 {: style="text-align: center; font-size:0.8em;"}
 
 My name is Max Tollefsen and I'm a Data Scientist based in Houston, Texas. I have a bachelors in economics from the University of Houston with a minor in psychology. I've been interested in data analysis ever since I took Intro to Economic Analysis at U of H and I'm thankful that I've been able to use and sharpen that skillset in every job I've had. 
