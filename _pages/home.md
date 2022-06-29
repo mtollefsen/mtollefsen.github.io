@@ -1,9 +1,9 @@
 ---
-title:  "Hello"
+title:  "Hello and Welcome"
 layout: single
 header:
   overlay_image: /assets/images/BLANK.png
-  overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
+  overlay_filter: linear-gradient(#e66465, #9198e5)
 permalink: /
 author_profile: true
 comments: false
