@@ -39,5 +39,7 @@ share: true
   Many times I had to consult VODs of the matches using the URL [https://overwatchleague.com/en-us/match/match_id](https://overwatchleague.com/en-us/match/match_id){:target="_blank" rel="noopener"} (replacing "match_id" with the actual match ID) or [Liquipedia](https://liquipedia.net/overwatch/Main_Page) to ensure I was understanding where my data was incorrect and how I might troubleshoot it.
   
   ![Overwatch League Database Schema](/assets/images/Overwatch League Database Schema.png)
+  *The seven tables that make up my database, lines show which variables connect tables*
+  {: style="text-align: center; font-size:0.8em;"}
 
 
