@@ -1,7 +1,9 @@
 ---
 title:  "Portfolio"
 layout: single
-taxonomy: Portfolio
+header:
+  overlay_image: /assets/images/BLANK.png
+  overlay_filter: linear-gradient(45deg, red, blue)
 permalink: /portfolio/
 toc: true
 toc_sticky: false
