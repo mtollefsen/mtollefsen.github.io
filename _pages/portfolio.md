@@ -3,7 +3,7 @@ title:  "Portfolio"
 layout: single
 header:
   overlay_image: /assets/images/BLANK.png
-  overlay_filter: linear-gradient(45deg, red, blue)
+  overlay_filter: linear-gradient(rgba(155, 55, 77, 0), rgba(50, 50, 105, 0))
 permalink: /portfolio/
 toc: true
 toc_sticky: false
