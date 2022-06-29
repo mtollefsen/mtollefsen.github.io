@@ -1,6 +1,8 @@
 ---
 title:  "Hello"
 layout: single
+header:
+  overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
 permalink: /
 author_profile: true
 comments: false
