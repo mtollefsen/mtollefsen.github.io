@@ -22,7 +22,7 @@ share: true
 ```
 >VERBOSE
 ```
-  I took data from [the Overwatch League website](https://overwatchleague.com/en-us/statslab){:target="_blank" rel="noopener"} and uploaded it to my SQLite database. This was 4,958,301 rows of data from 14 flat CSV files. Some of the challenges with this data included:
+  I took data from the [Overwatch League website](https://overwatchleague.com/en-us/statslab){:target="_blank" rel="noopener"} and uploaded it to my SQLite database. This was 4,958,301 rows of data from 14 flat CSV files. Some of the challenges with this data included:
   - Spelling errors
   - Inconsistent formatting  (e.g. match start times were in different time formats)
   - Incorrect values  (e.g. some round numbers increased in increments of 2 instead of 1 and some match times were listed as being shorter than how long the match actually lasted)
