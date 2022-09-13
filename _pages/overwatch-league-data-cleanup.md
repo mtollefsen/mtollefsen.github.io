@@ -8,21 +8,15 @@ author_profile: true
 share: true
 ---
 
-```
-TOOLS
-```
+## TOOLS
 - SQL
 
 
-```
-SUMMARY
-```
+## SUMMARY
   I used [SQL code](https://github.com/mtollefsen/overwatch-league-data-projects/tree/main/Data%20Cleanup){:target="_blank" rel="noopener"} to clean 4,958,301 rows of data from the Overwatch League and organized the data into an SQL database that is connected, easy to access, and immediately ready for use.
   
 
-```
-DETAILS
-```
+## DETAILS
   I took data from the [Overwatch League website](https://overwatchleague.com/en-us/statslab){:target="_blank" rel="noopener"} and uploaded it to my SQLite database. This was 4,958,301 rows of data from 14 flat CSV files. Some of the challenges with this data included:
   - Spelling errors
   - Inconsistent formatting  (e.g. match start times were in different time formats)
