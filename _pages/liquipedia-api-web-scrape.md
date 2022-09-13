@@ -9,6 +9,7 @@ share: true
 ---
 
 ### Tools
+{: style="font-size:0.7em;"}
 {: .notice--primary}
 
 - Python
