@@ -15,11 +15,13 @@ share: true
   - BeautifulSoup
 - SQL
 
+
 ### Summary
 {: .notice--primary}
 
   I wrote [Python code](https://github.com/mtollefsen/overwatch-league-data-projects/blob/main/Liquipedia%20API%20Web%20Scrape/player_info_web_scrape.py){:target="_blank" rel="noopener"} that web scrapes Liquipedia.net for information on Overwatch League players with a 98% success rate and uploads the data to my Overwatch League SQL database.
   
+
 ### Details
 {: .notice--primary}
 
