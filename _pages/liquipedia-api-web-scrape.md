@@ -8,21 +8,15 @@ author_profile: true
 share: true
 ---
 
-```
->INVENTORY
-```
+#### Tools
 - Python
   - BeautifulSoup
 - SQL
 
-```
->BRIEF
-```
+#### Summary
   I wrote [Python code](https://github.com/mtollefsen/overwatch-league-data-projects/blob/main/Liquipedia%20API%20Web%20Scrape/player_info_web_scrape.py){:target="_blank" rel="noopener"} that web scrapes Liquipedia.net for information on Overwatch League players with a 98% success rate and uploads the data to my Overwatch League SQL database.
   
-```
->VERBOSE
-```
+#### Details
   Liquipedia.net has an entry on most (if not all) professional Overwatch League (OWL) players. My [Overwatch League database](/portfolio/overwatch-league-data-cleanup/){:target="_blank" rel="noopener"}, in contrast, only has each player's in game name. To remedy this I wrote [Python code](https://github.com/mtollefsen/overwatch-league-data-projects/blob/main/Liquipedia%20API%20Web%20Scrape/player_info_web_scrape.py){:target="_blank" rel="noopener"}  that would scrape a player's information from Liquipedia.net and upload it to my SQL database. Specifically the code grabs information on a player's:
   - real name 
   - romanized name (if applicable)
