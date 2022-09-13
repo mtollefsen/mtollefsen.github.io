@@ -8,20 +8,21 @@ author_profile: true
 share: true
 ---
 
-```
->INVENTORY
-```
+### TOOLS
+{: .notice--primary}
+
 - Tableau
 
-```
->BRIEF
-```
+
+### SUMMARY
+{: .notice--primary}
+
   Using data from the Overwatch League I created a [Tableau dashboard](https://public.tableau.com/app/profile/max.tollefsen/viz/OverwatchLeague2018/OWL2018Dashboard){:target="_blank" rel="noopener"} of the 2018 Overwatch League rankings as well as a Tableau "story" analyzing the grand finals.
   
   
-```
->VERBOSE
-```
+### DETAILS
+{: .notice--primary}
+
   Using the data from the Overwatch League (OWL) that I [cleaned and organized](/portfolio/overwatch-league-data-cleanup/) I created a [Tableau dashboard](https://public.tableau.com/app/profile/max.tollefsen/viz/OverwatchLeague2018/OWL2018Dashboard){:target="_blank" rel="noopener"} with two tabs centered around the 2018 OWL season. 
   
   The first tab (labeled "OWL 2018 Dashboard") shows a dashboard of the rankings of every team through all four stages of the 2018 season and includes each teams' average matches and games won per stage. There is also a comparison of each teams' rank at the beginning and end of the season. You can click parts of the dashboard to highlight data only relevant to specific teams. Holding the control key while clicking elements of the dashboard will allow you to highlight multiple elements.
