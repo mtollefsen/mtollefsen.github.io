@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/Author.png"
   bio              : " "
   location         : "Houston, Texas"
-  email            : "Max.Tollefsen@gmail.com"
+  email            : # "Max.Tollefsen@gmail.com"
   links:
     - label: "Email"
       icon: "far fa-envelope"
