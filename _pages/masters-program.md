@@ -9,37 +9,40 @@ author_profile: true
 comments: false
 ---
 
-## Spring 2023
-### [Reinforcement Learning (CS 7642)](/reinforcement-learning/bayesian-statistics)
+This is the list of classes I have taken (ones with hyperlinks) or I am planning to take in the future (ones without a hyperlink) in my master's program at Georgia Tech.
 
-### [Bayesian Statistics (ISYE 6420)](/masters-program/bayesian-statistics)
 
-## Summer 2023
-### Artificial Intelligence
+### Spring 2023
+#### [Reinforcement Learning (CS 7642)](masters-program/reinforcement-learning)
 
-## Fall 2023
-### Machine Learning
+#### [Bayesian Statistics (ISYE 6420)](/masters-program/bayesian-statistics)
 
-### Graduate Introduction to Operating Systems
+### Summer 2023
+#### Artificial Intelligence
 
-## Spring 2024
-### Deep Learning
+### Fall 2023
+#### Machine Learning
 
-### Introduction to High Performance Computing
+#### Graduate Introduction to Operating Systems
 
-## Summer 2024
-### Graduate Algorithms
+### Spring 2024
+#### Deep Learning
 
-## Fall 2024
-### Computer Vision
+#### Introduction to High Performance Computing
 
-### Natural Language Processing
+### Summer 2024
+#### Graduate Algorithms
 
-## Post-Degree
-### Network Science
+### Fall 2024
+#### Computer Vision
 
-### Topics on High-Dimensional Data Analytics
+#### Natural Language Processing
 
-### Computer Graphics
+### Post-Degree
+#### Network Science
 
-### Game AI
+#### Topics on High-Dimensional Data Analytics
+
+#### Computer Graphics
+
+#### Game AI
