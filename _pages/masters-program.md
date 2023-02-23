@@ -1,5 +1,5 @@
 ---
-title:  "Master's Program Progress"
+title:  "Master's Program"
 layout: single
 permalink: /masters-program/
 toc: true
@@ -13,36 +13,29 @@ This is the list of classes I have taken (ones with hyperlinks) or I am planning
 
 
 ### Spring 2023
-#### [Reinforcement Learning (CS 7642)](masters-program/reinforcement-learning)
-
-#### [Bayesian Statistics (ISYE 6420)](/masters-program/bayesian-statistics)
+##### [Reinforcement Learning (CS 7642)](masters-program/reinforcement-learning)
+##### [Bayesian Statistics (ISYE 6420)](/masters-program/bayesian-statistics)
 
 ### Summer 2023
-#### Artificial Intelligence
+##### Artificial Intelligence
 
 ### Fall 2023
-#### Machine Learning
-
-#### Graduate Introduction to Operating Systems
+##### Machine Learning
+##### Graduate Introduction to Operating Systems
 
 ### Spring 2024
-#### Deep Learning
-
-#### Introduction to High Performance Computing
+##### Deep Learning
+##### Introduction to High Performance Computing
 
 ### Summer 2024
-#### Graduate Algorithms
+##### Graduate Algorithms
 
 ### Fall 2024
-#### Computer Vision
-
-#### Natural Language Processing
+##### Computer Vision
+##### Natural Language Processing
 
 ### Post-Degree
-#### Network Science
-
-#### Topics on High-Dimensional Data Analytics
-
-#### Computer Graphics
-
-#### Game AI
+##### Network Science
+##### Topics on High-Dimensional Data Analytics
+##### Computer Graphics
+##### Game AI
