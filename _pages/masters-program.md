@@ -10,9 +10,9 @@ comments: false
 ---
 
 ## Spring 2023
-### [Reinforcement Learning (CS 7642)]()
+### [Reinforcement Learning (CS 7642)](/reinforcement-learning/bayesian-statistics)
 
-### [Bayesian Statistics (ISYE 6420)]()
+### [Bayesian Statistics (ISYE 6420)](/masters-program/bayesian-statistics)
 
 ## Summer 2023
 ### Artificial Intelligence
