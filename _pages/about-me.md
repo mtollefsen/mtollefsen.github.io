@@ -10,7 +10,7 @@ comments: false
 *Me and my sometimes loyal companion Loki*
 {: style="text-align: center; font-size:0.8em;"}
 
-My name is Max Tollefsen and I'm a Data Scientist based in Houston, Texas. I got my Bachelors in Economics with a minor in Psychology from the University of Houston and I'm currently working on my Master’s in Computer Science with a concentration in Machine Learning at Georgia Tech. You can see what I've been learning and follow my progress on my Master's degree [here](/masters-progress).
+My name is Max Tollefsen and I'm a Data Scientist based in Houston, Texas. I got my Bachelors in Economics with a minor in Psychology from the University of Houston and I'm currently working on my Master’s in Computer Science with a concentration in Machine Learning at Georgia Tech. You can see what I've learned and follow my progress on my Master's degree [here](/masters-program).
 
 My long term career goal is to build a deep competency in the data science space by studying machine learning and analytics techniques and by taking on increasingly difficult and unique problems. My hope is that I continue to find opportunities to apply what I learn in the classroom to real world problems and that my work supports my desire to always be learning and improving.
 
