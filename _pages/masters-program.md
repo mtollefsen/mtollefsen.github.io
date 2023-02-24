@@ -6,9 +6,6 @@ author_profile: true
 comments: false
 ---
 
-This is a list of classes I have taken (ones with hyperlinks) or I am planning to take in the future (ones without a hyperlink) in my master's program at Georgia Tech.
-
-
 ### Spring 2023
 #### [Reinforcement Learning (CS 7642)](masters-program/reinforcement-learning)
 #### [Bayesian Statistics (ISYE 6420)](/masters-program/bayesian-statistics)
