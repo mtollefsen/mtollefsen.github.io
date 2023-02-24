@@ -2,9 +2,6 @@
 title:  "Master's Program"
 layout: single
 permalink: /masters-program/
-toc: true
-toc_sticky: false
-toc_label: "Courses"
 author_profile: true
 comments: false
 ---
