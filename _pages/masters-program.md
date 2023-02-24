@@ -1,5 +1,5 @@
 ---
-title:  "Computer Science Master's"
+title:  "Master's in Computer Science"
 layout: single
 permalink: /masters-program/
 author_profile: true
