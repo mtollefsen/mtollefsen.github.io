@@ -2,8 +2,6 @@
 # main links
 # https://mtollefsen.github.io/about-me/
 main:
-  - title: "CS Master's"
-    url: /masters-program/
   - title: "Portfolio"
     url: /portfolio/
 # - title: "Blog"
