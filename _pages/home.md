@@ -13,18 +13,19 @@ If you have any questions or want to connect feel free to reach out to me at my 
 
 ## 2023
 ### Graduate Introduction to Operating Systems (Summer 2023)
-Summer 2023 master's course. Covered the fundamentals of operating systems (OS) with a focus on OS support for concurrency (threads) and synchronization, resource management (CPU, memory, I/O), and distributed services. There were three projects which built on top of one another involving multithread programming, inter-process communication, and distributed interactions via remote procedure calls (RPC). I do not include the code for these projects in respecting the course's desire that project material not be published publically.
+Summer 2023 master's course. Covered the fundamentals of operating systems (OS) with a focus on OS support for concurrency (threads) and synchronization, resource management (CPU, memory, I/O), and distributed services. There were three projects which built on top of one another involving multithread programming, inter-process communication, and distributed interactions via remote procedure calls (RPC). I do not include the code for these projects in respecting the course's desire that project material not be published publicly.
 
 ### Reinforcement Learning (Spring 2023)
-Spring 2023 master's course. Covered the origins and background of reinforcement learning all the way to modern methods developed in the last few years. This course has three projects, the last of which involved reading and implementing contemporary research papers to solve a multi-agent problem in a large continuous state space. I do not include the papers or code for these project in respecting the course's desire that project material not be published publically.
+Spring 2023 master's course. Covered the origins and background of reinforcement learning all the way to modern methods developed in the last few years. This course has three projects, the last of which involved reading and implementing contemporary research papers to solve a multi-agent problem in a large continuous state space. I do not include the papers or code for these project in respecting the course's desire that project material not be published publicly.
 
 ### Bayesian Statistics (Spring 2023)
-Spring 2023 master's course. Covered the Bayesian view and approach to statistics, including hypothesis testing, Markov Chain Monte Carlo (MCMC) methods (implementing them manually and with software), linear regression models, and generalised linear models. This course had an open ended final project which involved picking a dataset and applying a form of Bayesian analysis on it. I chose to create a Bayesian network to predict which side would win in a given round of Counter-Stike:Global Offense (CS:GO) given only the few variables that a team playing in a game would have.
+Spring 2023 master's course. Covered the Bayesian view and approach to statistics, including hypothesis testing, Markov Chain Monte Carlo (MCMC) methods (implementing them manually and with software), linear regression models, and generalized linear models. This course had an open-ended final project which involved picking a dataset and applying a form of Bayesian analysis on it. I chose to create a Bayesian network to predict which side would win in a given round of Counter-Strike: Global Offense (CS:GO) given only the few variables that a team playing in a game would have.
 
 
 ## 2022
-### Starting Working @ Heath Consultants as a Data Scientist (February 2022)
+### Started Working @ Heath Consultants as a Data Scientist (February 2022)
 
 ### Overwatch League Data Cleaning and Analysis (January 2022 - March 2022)
-Series of personal projects using Overwatch League (OWL) data, the purpose of which was to improve my experience in methods and technologies important for working with data. These include: web scrapping, data cleaning, database organization, data visualisation, and data analysis. Python and SQL were the primary languages used and Tableau was used for dashboarding.
+Series of personal projects using Overwatch League (OWL) data, the purpose of which was to improve my experience in methods and technologies important for working with data. These include: web scrapping, data cleaning, database organization, data visualization, and data analysis. Python and SQL were the primary languages used and Tableau was used for dashboarding.
+
 
