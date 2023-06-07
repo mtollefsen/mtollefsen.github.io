@@ -10,7 +10,7 @@ Hello! My name is [Max](/about-me/) and welcome to my website. I work as a Data 
 
 If you have any questions or want to connect feel free to reach out to me at my email [max.tollefsen@gmail.com](mailto:max.tollefsen@gmail.com) or my [LinkedIn](https://www.linkedin.com/in/max-tollefsen/){:target="_blank" rel="noopener"}, cheers!
 
-Below is a timeline of some of the projects and college classes I've done:
+Below are some of the projects and college classes I've done:
 
 ## 2023
 ### Graduate Introduction to Operating Systems (Summer 2023)
