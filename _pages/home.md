@@ -23,7 +23,18 @@ Spring 2023 master's course. Covered the Bayesian view and approach to statistic
 
 
 ## 2022
-### Overwatch League Data Cleaning and Analysis (January 2022 - March 2022)
-Series of personal projects using Overwatch League (OWL) data, the purpose of which was to improve my experience in methods and technologies important for working with data. These include web scrapping, data cleaning, database organization, data visualization, and data analysis. Python and SQL were the primary languages used and Tableau was used for dashboarding.
+### Overwatch League (OWL) Data Projects (January 2022 - March 2022)
+Series of personal projects using data from OWL. I chose to use OWL data because I have strong domain knowledge of the game and the league from playing on an Overwatch team in college.
 
+#### Overwatch League Data Cleaning and Organization
+- Cleaned and organized nearly 5 million rows of OWL data from 14 flat CSV files into a connected database of 7 tables using SQL.
+
+#### Liquipedia Web Scraping
+- Created a Python script that scrapped specific data on 373 professional OWL players with a ~98% success rate.
+
+#### OWL 2018 Rankings Dashboard
+- Visualized the Overwatch League's 2018 rankings in Tableau.
+
+#### The Assault on Assault: An Analysis of Overwatch's Most Despised Game Mode
+- Wrote an analysis of Overwatch's controversial gamemode Assault using Jupyter Notebooks, Python, and SQL.
 
