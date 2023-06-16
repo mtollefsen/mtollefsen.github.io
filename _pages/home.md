@@ -26,7 +26,7 @@ Spring 2023 master's course. Covered the Bayesian view and approach to statistic
 ### Overwatch League (OWL) Data Projects (January 2022 - March 2022)
 Series of personal projects, listed below, using data from OWL. I chose to use OWL data because I have strong domain knowledge of the game and the league from playing on an Overwatch team in college.
 
-#### Data Cleaning and Organization
+#### [Data Cleaning and Organization](/portfolio/overwatch-league-data-cleanup/)
 - Cleaned and organized nearly 5 million rows of OWL data from 14 flat CSV files into a connected database of 7 tables using SQL.
 
 #### Liquipedia Web Scraping
