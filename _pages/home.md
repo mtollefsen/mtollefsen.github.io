@@ -27,16 +27,16 @@ Spring 2023 master's course. Covered the Bayesian view and approach to statistic
 Series of personal projects, listed below, using data from OWL. I chose to use OWL data because I have strong domain knowledge of the game and the league from playing on an Overwatch team in college.
 
 #### [Data Cleaning and Organization](/portfolio/overwatch-league-data-cleanup/)
-- Cleaned and organized nearly 5 million rows of OWL data from 14 flat CSV files into a connected database of 7 tables using SQL.
+Cleaned and organized nearly 5 million rows of OWL data from 14 flat CSV files into a connected database of 7 tables using SQL.
 
 #### Liquipedia Web Scraping
-- Created a Python script that scrapped specific data on 373 professional OWL players with a ~98% success rate.
+Created a Python script that scrapped specific data on 373 professional OWL players with a ~98% success rate.
 
 #### OWL 2018 Rankings Dashboard
-Visualized the Overwatch League's 2018 rankings in Tableau. Every team's icon and official colors were manually added to authentically represent the league.
+Visualized the Overwatch League's 2018 rankings in Tableau. Every team's icon and official colors were manually added.
 
 ![owl-2018-dashboard-example](/assets/images/owl-2018-dashboard-example.png)
 
 #### [The Assault on Assault: An Analysis of Overwatch's Most Despised Game Mode](https://nbviewer.org/github/mtollefsen/overwatch-league-data-projects/blob/main/Notebooks/The%20Assault%20on%20Assault.ipynb){:target="_blank" rel="noopener"}
-- Wrote an analysis of Overwatch's controversial game mode Assault using Jupyter Notebooks, Python, and SQL.
+Wrote an analysis of Overwatch's controversial game mode Assault using Jupyter Notebooks, Python, and SQL.
 
