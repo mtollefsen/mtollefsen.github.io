@@ -37,6 +37,6 @@ Visualized the Overwatch League's 2018 rankings in Tableau. Every team's icon an
 
 ![owl-2018-dashboard-example](/assets/images/owl-2018-dashboard-example.png)
 
-#### The Assault on Assault: An Analysis of Overwatch's Most Despised Game Mode
+#### [The Assault on Assault: An Analysis of Overwatch's Most Despised Game Mode](https://nbviewer.org/github/mtollefsen/overwatch-league-data-projects/blob/main/Notebooks/The%20Assault%20on%20Assault.ipynb){:target="_blank" rel="noopener"}
 - Wrote an analysis of Overwatch's controversial game mode Assault using Jupyter Notebooks, Python, and SQL.
 
