@@ -6,17 +6,17 @@ author_profile: true
 comments: false
 ---
 
-My name is Max, I'm a computer science master's student at Georgia Tech and I love working with data. Below are some of the projects, not work-related, that I've done.
+My name is Max, I'm a computer science master's student at Georgia Tech and I love working with data. Below are some of the projects not related to work that I've done.
 
 If you have any questions or want to connect feel free to reach out to me at my email [max.tollefsen@gmail.com](mailto:max.tollefsen@gmail.com) or my [LinkedIn](https://www.linkedin.com/in/max-tollefsen/){:target="_blank" rel="noopener"}, cheers.
 
 
 ## 2023
 ### Graduate Introduction to Operating Systems (Summer 2023)
-Summer 2023 master's course. Covered the fundamentals of operating systems (OS) with a focus on OS support for concurrency (threads) and synchronization, resource management (CPU, memory, I/O), and distributed services. There were three projects which build on top of one another involving multithread programming, inter-process communication, and distributed interactions via remote procedure calls (RPC). I do not include the code for these projects in respecting the course's desire that project material not be published publicly.
+Summer 2023 master's course. Covered the fundamentals of operating systems (OS) with a focus on OS support for concurrency (threads) and synchronization, resource management (CPU, memory, I/O), and distributed services. There were three projects which build on top of one another involving multithread programming, inter-process communication, and distributed interactions via remote procedure calls (RPC). I do not include the code for these projects in respecting the professor's desire that project material not be published publicly.
 
 ### Reinforcement Learning (Spring 2023)
-Spring 2023 master's course. Covered the origins and background of reinforcement learning all the way to modern methods developed in the last few years. This course has three projects, the last of which involved reading and implementing contemporary research papers to solve a multi-agent problem in a large continuous state space. I do not include the papers or code for these projects in respecting the course's desire that project material not be published publicly.
+Spring 2023 master's course. Covered the origins and background of reinforcement learning all the way to modern methods developed in the last few years. This course had three projects, the last of which involved reading and implementing contemporary research papers to solve a multi-agent problem in a large continuous state space. I do not include the papers or code for these projects in respecting the professor's desire that project material not be published publicly.
 
 ### Bayesian Statistics (Spring 2023)
 Spring 2023 master's course. Covered the Bayesian view and approach to statistics, including hypothesis testing, Markov Chain Monte Carlo (MCMC) methods (implementing them manually and with software libraries), linear regression models, and generalized linear models. For the course's final project, I created a Bayesian network that predicts (or classifies) which team would win in a round of Counter-Strike: Global Offense (CS:GO) given only the few variables that a team playing in a game would know before a round starts.
