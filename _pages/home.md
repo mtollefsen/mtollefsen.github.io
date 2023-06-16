@@ -32,7 +32,7 @@ Cleaned and organized nearly 5 million rows of OWL data from 14 flat CSV files i
 #### Liquipedia Web Scraping
 Created a Python script that scrapped specific data on 373 professional OWL players with a ~98% success rate.
 
-#### OWL 2018 Rankings Dashboard
+#### [OWL 2018 Rankings Dashboard](https://public.tableau.com/app/profile/max.tollefsen/viz/OverwatchLeague2018/OWL2018Dashboard){:target="_blank" rel="noopener"}
 Visualized the Overwatch League's 2018 rankings in Tableau. Every team's icon and official colors were manually added.
 
 ![owl-2018-dashboard-example](/assets/images/owl-2018-dashboard-example.png)
