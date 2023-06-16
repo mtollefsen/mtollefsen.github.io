@@ -6,7 +6,7 @@ author_profile: true
 comments: false
 ---
 
-My name is Max, I'm a computer science master's student at Georgia Tech and I love working with data. Below are some of the projects I've done.
+My name is Max, I'm a computer science master's student at Georgia Tech and I love working with data. Below are some of the projects, not work-related, that I've done.
 
 If you have any questions or want to connect feel free to reach out to me at my email [max.tollefsen@gmail.com](mailto:max.tollefsen@gmail.com) or my [LinkedIn](https://www.linkedin.com/in/max-tollefsen/){:target="_blank" rel="noopener"}, cheers.
 
@@ -24,7 +24,7 @@ Spring 2023 master's course. Covered the Bayesian view and approach to statistic
 
 ## 2022
 ### Overwatch League (OWL) Data Projects (January 2022 - March 2022)
-Series of personal projects using data from OWL. I chose to use OWL data because I have strong domain knowledge of the game and the league from playing on an Overwatch team in college.
+Series of personal projects, listed below, using data from OWL. I chose to use OWL data because I have strong domain knowledge of the game and the league from playing on an Overwatch team in college.
 
 #### Data Cleaning and Organization
 - Cleaned and organized nearly 5 million rows of OWL data from 14 flat CSV files into a connected database of 7 tables using SQL.
@@ -33,10 +33,10 @@ Series of personal projects using data from OWL. I chose to use OWL data because
 - Created a Python script that scrapped specific data on 373 professional OWL players with a ~98% success rate.
 
 #### OWL 2018 Rankings Dashboard
-Visualized the Overwatch League's 2018 rankings in Tableau. Every team's official colors and icons were manually added to authentically represent the league.
+Visualized the Overwatch League's 2018 rankings in Tableau. Every team's icon and official colors were manually added to authentically represent the league.
 
 ![owl-2018-dashboard-example](/assets/images/owl-2018-dashboard-example.png)
 
 #### The Assault on Assault: An Analysis of Overwatch's Most Despised Game Mode
-- Wrote an analysis of Overwatch's controversial gamemode Assault using Jupyter Notebooks, Python, and SQL.
+- Wrote an analysis of Overwatch's controversial game mode Assault using Jupyter Notebooks, Python, and SQL.
 
