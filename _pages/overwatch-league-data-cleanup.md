@@ -8,36 +8,31 @@ author_profile: true
 share: true
 ---
 
-### TOOLS
-{: .notice--primary}
+I took 14 flat CSV files from the [Overwatch League website](https://overwatchleague.com/en-us/statslab){:target="_blank" rel="noopener"} containing nearly 5 million rows of data in total and cleaned and organized it into a connected database of 7 tables in SQL. The code I wrote to do this can be found [here](https://github.com/mtollefsen/overwatch-league-data-projects/tree/main/Data%20Cleanup){:target="_blank" rel="noopener"}.
 
-- SQL
+## Before
+#### 4,958,301 rows of data from 14 flat CSV files<br>
+#### Problems included
+- Spelling errors
+- Inconsistent formatting
+- Incorrect values
+- Missing values
+- Duplicate rows
+- Outdated names
+- Lack of overarching organizational structure
 
-
-### SUMMARY
-{: .notice--primary}
-
-  I used [SQL code](https://github.com/mtollefsen/overwatch-league-data-projects/tree/main/Data%20Cleanup){:target="_blank" rel="noopener"} to clean 4,958,301 rows of data from the Overwatch League and organized the data into an SQL database that is connected, easy to access, and immediately ready for use.
+## After
+#### 4,920,155 rows of data connected across 7 tables<br>
+- 5 tables in a hierarchy `season` > `stage` > `match` > `game` > `round`<br>
+- 2 reference tables `player_stat` and `hero`
   
-
-### DETAILS
-{: .notice--primary}
-
-  I took data from the [Overwatch League website](https://overwatchleague.com/en-us/statslab){:target="_blank" rel="noopener"} and uploaded it to my SQLite database. This was 4,958,301 rows of data from 14 flat CSV files. Some of the challenges with this data included:
-  - Spelling errors
-  - Inconsistent formatting  (e.g. match start times were in different time formats)
-  - Incorrect values  (e.g. some round numbers increased in increments of 2 instead of 1 and some match times were listed as being shorter than how long the match actually lasted)
-  - Missing values
-  - Duplicate rows
-  - Outdated names  (e.g. McRee has since been renamed to Cassidy)
-  - Lack of overarching organizational structure
-
-  After transforming the data with [SQL code](https://github.com/mtollefsen/overwatch-league-data-projects/tree/main/Data%20Cleanup){:target="_blank" rel="noopener"} the end result was a connected database of 7 tables (pictured below) in first normal form. This database forms the foundation for the other Overwatch League related projects. I fixed all of the problems listed above and further enhanced the data by adding:
-  - **primary** and *foreign* keys
-  - constraints
-  - data on all of Overwatch's current heroes (the `hero` table in the image below)
-
-  Many times I had to consult VODs of the matches using the URL [https://overwatchleague.com/en-us/match/match_id](https://overwatchleague.com/en-us/match/match_id){:target="_blank" rel="noopener"} (replacing "match_id" with the actual match ID) or [Liquipedia](https://liquipedia.net/overwatch/Main_Page) to ensure I was understanding where my data was incorrect and how I might troubleshoot it.
+#### Changes include
+- Fixing all of the aforementioned problems
+- Adding **primary keys**
+- Adding *foreign keys*
+- Adding constraints
+- Adding new data via the `hero` table
+- Bringing database to first normal form
   
   ![Overwatch League Database Schema](/assets/images/Overwatch League Database Schema.png)
   *The seven tables that make up my database, lines show which variables connect tables*
