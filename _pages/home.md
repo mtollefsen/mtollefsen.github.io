@@ -29,7 +29,7 @@ Series of personal projects, listed below, using data from OWL. I chose to use O
 #### [Data Cleaning and Organization](/portfolio/overwatch-league-data-cleanup/)
 Cleaned and organized nearly 5 million rows of OWL data from 14 flat CSV files into a connected database of 7 tables using SQL.
 
-#### Liquipedia Web Scraping
+#### [Liquipedia Web Scraping](https://github.com/mtollefsen/overwatch-league-data-projects/tree/main/Liquipedia%20API%20Web%20Scrape){:target="_blank" rel="noopener"}
 Created a Python script that scrapped specific data on 373 professional OWL players with a ~98% success rate.
 
 #### [OWL 2018 Rankings Dashboard](https://public.tableau.com/app/profile/max.tollefsen/viz/OverwatchLeague2018/OWL2018Dashboard){:target="_blank" rel="noopener"}
