@@ -16,13 +16,13 @@ If you have any questions or want to connect feel free to reach out to me at my 
 
 ## 2022
 #### [Overwatch League Data Cleanup](https://github.com/mtollefsen/overwatch-league-data-projects/tree/main/Data%20Cleanup)
-  SQL code used to clean and organize nearly 5 million rows of data from 14 flat CSV files into a database of 7 connected tables.
+  SQL code used to clean and organize nearly 5 million rows of Overwatch League data from 14 flat CSV files into a database of 7 connected tables.
 
 ![Overwatch League Database Schema](/assets/images/Overwatch League Database Schema.png)
 
 
 #### [Liquipedia API Web Scrape](https://github.com/mtollefsen/overwatch-league-data-projects/tree/main/Liquipedia%20API%20Web%20Scrape)
-  Python code that scrapes data on Overwatch League players from Liquipedia.net with a 98% success rate and uploads the data to my Overwatch League SQL database.
+  Python code used to scrape data on Overwatch League players from Liquipedia.net and upload the data to my Overwatch League SQL database.
 
   ![Liquipedia API Requests Flow Chart](/assets/images/Liquipedia API Requests Flow Chart.png)
 
@@ -34,7 +34,7 @@ If you have any questions or want to connect feel free to reach out to me at my 
 
 
 #### [The Assault on Assault: An Analysis of Overwatch's Most Despised Game Mode](https://nbviewer.org/github/mtollefsen/notebooks/blob/main/Notebooks/The%20Assault%20on%20Assault.ipynb){:target="_blank" rel="noopener"}
-  (If you click the link, please give it a minute to load) A Jupyter notebook showing why Overwatch's Assault is a heavily disliked game mode, what the Overwatch development team is doing about it, and what I think should be done, using data from the Overwatch League to support my points.
+  (If you click the link, please give it a few moments to load) Analysis in Jupyter Notebook showing why Overwatch's Assault is a heavily disliked game mode, what the Overwatch development team is doing about it, and what I recommend should be done, all using data from the Overwatch League to support my points.
   
   ![Assault Notebook](/assets/images/assault notebook.png)
   
