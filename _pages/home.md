@@ -15,22 +15,26 @@ If you have any questions or want to connect feel free to reach out to me at my 
 
 
 ## 2022
-#### [Overwatch League Data Cleanup](/portfolio/overwatch-league-data-cleanup/)
-  SQL code used to clean 4,958,301 rows of data from the Overwatch League and organize the data into an SQL database that is connected, easy to access, and immediately ready for use.
+#### [Overwatch League Data Cleanup](https://github.com/mtollefsen/overwatch-league-data-projects/tree/main/Data%20Cleanup)
+  SQL code used to clean and organize 4,950,000 rows of data from 14 flat CSV files into a database of 7 connected tables.
 
 ![Overwatch League Database Schema](/assets/images/Overwatch League Database Schema.png)
 
-#### [Overwatch League 2018 Dashboard](/portfolio/overwatch-league-2018-dashboard/)
-  Tableau dashboard of the 2018 Overwatch League rankings as well as a Tableau "story" analysing the 2018 grand finals of the Overwatch League.
-  
-  ![OWL 2018 Dashboard Example](/assets/images/owl-2018-dashboard-example.png)
+
+#### [Liquipedia API Web Scrape](https://github.com/mtollefsen/overwatch-league-data-projects/tree/main/Liquipedia%20API%20Web%20Scrape)
+  Python code that scrapes data on Overwatch League players from Liquipedia.net with a 98% success rate and uploads the data to my Overwatch League SQL database.
+
+  ![Liquipedia API Requests Flow Chart](/assets/images/Liquipedia API Requests Flow Chart.png)
+
+
+#### [Overwatch League 2018 Dashboard](https://public.tableau.com/app/profile/max.tollefsen/viz/OverwatchLeague2018/OWL2018Dashboard)
+  Tableau dashboard of the 2018 Overwatch League rankings. Second tab is a Tableau "story" of an exploratory analysis of the 2018 grand finals of the Overwatch League.
+
+ ![OWL 2018 Dashboard Example](/assets/images/owl-2018-dashboard-example.png)
+
 
 #### [The Assault on Assault: An Analysis of Overwatch's Most Despised Game Mode](https://nbviewer.org/github/mtollefsen/overwatch-league-data-projects/blob/main/Notebooks/The%20Assault%20on%20Assault.ipynb){:target="_blank" rel="noopener"}
   (If you click the link, please give it a minute to load) A Jupyter notebook showing why Overwatch's Assault is a heavily disliked game mode, what the Overwatch development team is doing about it, and what I think should be done, using data from the Overwatch League to support my points.
   
   ![Assault Notebook](/assets/images/assault notebook.png)
   
-#### [Liquipedia API Web Scrape](/portfolio/liquipedia-api-web-scrape/)
-  Python code that web scrapes Liquipedia.net for information on Overwatch League players with a 98% success rate and uploads the data to my Overwatch League SQL database.
-
-  ![Liquipedia API Requests Flow Chart](/assets/images/Liquipedia API Requests Flow Chart.png)
