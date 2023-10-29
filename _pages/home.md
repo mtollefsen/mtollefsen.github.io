@@ -16,7 +16,7 @@ If you have any questions or want to connect feel free to reach out to me at my 
 
 ## 2022
 #### [Overwatch League Data Cleanup](https://github.com/mtollefsen/overwatch-league-data-projects/tree/main/Data%20Cleanup)
-  SQL code used to clean and organize 4,950,000 rows of data from 14 flat CSV files into a database of 7 connected tables.
+  SQL code used to clean and organize nearly 5 million rows of data from 14 flat CSV files into a database of 7 connected tables.
 
 ![Overwatch League Database Schema](/assets/images/Overwatch League Database Schema.png)
 
